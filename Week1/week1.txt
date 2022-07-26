@@ -1,0 +1,8 @@
+Week 1 contains basics of the programing language called Python to get you started
+
+Install Python : 
+https://www.python.org/downloads/
+
+Jupyter Notebook
+https://www.anaconda.com/products/distribution
+python -m pip install jupyter
